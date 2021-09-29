@@ -8,7 +8,7 @@
 - Create a remote repo
 - Configure the local repo to push to the remote repo
 
-#### Cycling...
+#### Cycling...
 1. Do some work
 2. Stage the changes to be committed
 3. Commit the changes
