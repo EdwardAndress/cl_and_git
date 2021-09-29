@@ -9,7 +9,7 @@
 - Configure the local repo to push to the remote repo
   `git add origin <pasted_the_thing_from_github>`
 
-#### Cycling...
+#### Cycling...
 1. Do some work
 2. Stage the changes to be committed
 3. Commit the changes
